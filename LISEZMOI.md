@@ -1,6 +1,6 @@
 # Spritesheet Creator
 
-[This page in english.](README.md)
+[This page in English.](README.md)
 
 Les spritesheets sont des images contenant d'autres images. Hyper pratique quand on veut diminuer les temps de téléchargement sur les jeux en ligne. Ca sert aussi depuis les premiers jeux vidéos à stocker toutes les étapes d'une animation.
 
@@ -10,19 +10,25 @@ La plupart des sources, banques d'images, graphistes proposant des animations le
 
 Ce dépôt de code contient un projet développé en langage Pascal Objet sous Delphi. Vous ne savez pas ce qu'est Dephi ni où le télécharger ? Vous en saurez plus [sur ce site web](https://delphi-resources.developpeur-pascal.fr/).
 
+## Présentations et conférences
+
+### Twitch
+
+Suivez mes streams de développement de logiciels, jeux vidéo, applications mobiles et sites web sur [ma chaîne Twitch](https://www.twitch.tv/patrickpremartin) ou en rediffusion sur [Serial Streameur](https://serialstreameur.fr) la plupart du temps en français.
+
 ## Utiliser ce logiciel
 
 Ce logiciel est disponible dans une version de production directement installable ou exécutable. Il est distribué en shareware.
 
 Vous pouvez le télécharger et le rediffuser gratuitement à condition de ne pas en modifier le contenu (installeur, programme, fichiers annexes, ...).
 
-[Télécharger le programme ou son installeur](DDD)
+[Télécharger le programme ou son installeur](DDD) (WIP)
 
 Si vous utilisez régulièrement ce logiciel et en êtes satisfait vous êtes invité à en acheter une licence d'utilisateur final. L'achat d'une licence vous donnera accès aux mises à jour du logiciel en plus d'activer d'évenuelles fonctionnalités optionnelles.
 
-[Acheter une licence](FFF)
+[Acheter une licence](FFF) (WIP)
 
-Vous pouvez aussi [consulter le site du logiciel](EEE) pour en savoir plus sur son fonctionnement, accéder à des vidéos et articles, connaître les différentes versions disponibles et leurs fonctionnalités, contacter le support utilisateurs...
+Vous pouvez aussi [consulter le site du logiciel](https://spritesheetcreator.olfsoftware.fr/) pour en savoir plus sur son fonctionnement, accéder à des vidéos et articles, connaître les différentes versions disponibles et leurs fonctionnalités, contacter le support utilisateurs...
 
 ## Installation des codes sources
 
